@@ -11,6 +11,9 @@ public class demo {
 		System.out.println(y);
 		String text = "this is the sample text for located string";
 		System.out.println("the location of located text : "+ text.indexOf("located"));
+		
+		
 	}
-
+	
 }
+
