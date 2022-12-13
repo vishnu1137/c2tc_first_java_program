@@ -19,9 +19,9 @@ public class base_stack {
 		System.out.println("you get only last value ,please enter 6");
 		System.out.println("you get any value ,please enter 7");
 		System.out.println("you can search any value ,please enter 8");
-		System.out.println("can you see only hole value of stack ,please enter 9");
+		System.out.println("can you see only hole value of stack ,please enter 9\n");
 		
-		
+		System.out.println("your stack value is : "+Is);
 		
 		System.out.print("Enter your choice 1-9 number : ");
 		int i=n.nextInt();
