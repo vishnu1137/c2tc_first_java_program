@@ -52,6 +52,12 @@ public class base_Lists extends Thread {
 		base_Lists b=new base_Lists();
 		
 		b.start();
+		try {
+			Thread.sleep(1000);
+		} catch (InterruptedException e) {
+			
+			e.printStackTrace();
+		}
 		l.start();
 	}
 
