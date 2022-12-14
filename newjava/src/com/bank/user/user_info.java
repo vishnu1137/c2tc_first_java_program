@@ -4,8 +4,8 @@ import java.util.*;
 public class user_info{
 	public String user_Name= "vijay";
 	protected String bank_Name="SBI";
-	protected int Account_no=234543564;
-	protected String user_Mailid="vijay0037@gmail.com";
+	protected String Account_no="23454******";
+	protected String user_Mailid="vijay***7@gmail.com";
 	private String user_Mobile_no="986456****";
 	private int user_pin=4565;
 	
